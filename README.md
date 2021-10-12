@@ -15,3 +15,4 @@ Melakukan Perintah:
 Dengan ketentuan:
 - Minimal commit > 10
 - Terdapat gitignore
+belajar reset dan revert
